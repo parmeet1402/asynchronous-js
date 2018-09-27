@@ -1,0 +1,1 @@
+This text is taken from a text file named 'data.txt'.

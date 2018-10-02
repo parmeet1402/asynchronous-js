@@ -42,7 +42,7 @@ const data = {
 //   }
 // });
 
-// Delete Post
+// Delete Post\
 http.delete("https://jsonplaceholder.typicode.com/posts/1", function(
   err,
   response

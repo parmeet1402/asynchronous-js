@@ -42,7 +42,7 @@ easyHTTP.prototype.put = function(url, data, callback) {
   };
 
   this.http.send(JSON.stringify(data));
-};
+}; 
 
 // Make an HTTP DELETE Request
 easyHTTP.prototype.delete = function(url, callback) {
